@@ -1,3 +1,5 @@
+**This starter was for ionic-angular 3.X. I now recommend using the official [Ionic PWA Toolkit](https://github.com/ionic-team/ionic-pwa-toolkit).**
+
 # ionic-starter-pwa
 
 This is a starter template for [Ionic](http://ionicframework.com/docs/) PWA projects.
